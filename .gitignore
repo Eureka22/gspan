@@ -1,0 +1,6 @@
+*.o
+closegraph
+closegraph.dSYM
+images
+*.html
+*.a
